@@ -175,4 +175,13 @@ body{
 
 
 
-
+@media screen and (max-width: 1000px){
+	
+	.div2 img{
+		margin-top: 3%;
+	}
+	.div2 .bio{
+		margin-left: 3%;
+		margin-right: 5%;
+	}
+  }
