@@ -111,7 +111,7 @@ body{
 
 
 
-@media screen and (max-width: 440px){
+@media screen and (max-width: 500px){
    
 	.div2 img{
 	
@@ -171,4 +171,18 @@ body{
 		margin-left: 7%;
 	}
 	
+  }
+
+
+
+@media screen and (max-width: 1000px){
+	.container h1{
+		font-size: 2px;
+	}
+	.container #cardd{
+		margin-left: -4%;
+	}
+	.div2 img{
+		width: 100px;
+	}
   }
